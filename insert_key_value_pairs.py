@@ -1,6 +1,4 @@
 import binary_tree
-insert avl_tree
-insert hash_functions
 import argparse
 import avl.py
 
