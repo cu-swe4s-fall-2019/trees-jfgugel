@@ -1,11 +1,12 @@
 
 
 class Node:
-    def __init__(self, key, value=None, left=None, right=None):
-        self.key = key
-        self.value = value
-        self.left = left
-        self.right = right
+    
+def __init__(self, key, value=None, left=None, right=None):
+    self.key = key
+    self.value = value
+    self.left = left
+    self.right = right
 
 def add(root, key, value=None):
     if root == None:
